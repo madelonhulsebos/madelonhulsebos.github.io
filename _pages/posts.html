@@ -1,9 +1,11 @@
 ---
+layout: page
 title: Posts
 permalink: /posts/
 ---
-
-<div class="posts">
+<!doctype html>
+<html>
+ <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
@@ -47,4 +49,5 @@ permalink: /posts/
     {% endif %}
   </div>
   {% endif %}
-</div>
+ </div>
+</html>
