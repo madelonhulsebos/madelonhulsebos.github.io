@@ -42,6 +42,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
+collections:
+  projects:
+    output: true
+
 include: ['_pages']
 
 paginate: 3
