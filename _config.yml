@@ -51,6 +51,9 @@ include: ['_pages']
 paginate: 3
 paginate_path: /page:num/
 
+# Google Analytics
+google_analytics: G-3JGXB637F3
+
 # Exclude these files
 exclude:
   - Gemfile
