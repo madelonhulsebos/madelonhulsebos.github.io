@@ -8,6 +8,6 @@ My industrial research journey started in June 2021 at Sigma Computing where I s
 
 During my internship I worked on two different projects. First, I worked on prototyping a system for data-driven decision making. Second, I worked on developing a framework and system for semantic type detection in practice. Both projects will be presented at CIDR next January!
 
-As I continue to work at Sigma, I really look forward to meeting the team in person in January. I will travel to San Francisco and visit CIDR as well. I would be pleased to meet other participants!
+As I continue to work at Sigma, I really look forward to meeting the team in person in January. I will travel to San Francisco and visit CIDR as well. I would be pleased to meet other CIDR participants!
 
-Are you interested in research opportunities at Sigma? Visit <a href="https://gittables.github.io">our website</a> to find out more, or reach out to me or &#199;a&#x0011F;atay Demiralp.
+Are you interested in research opportunities at Sigma? Visit <a href="https://www.sigmacomputing.com/careers/">our website</a> to find out more, or reach out to me or &#199;a&#x0011F;atay Demiralp.
