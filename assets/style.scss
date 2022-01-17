@@ -1,6 +1,3 @@
----
----
-
 //
 // IMPORTS
 //
@@ -17,15 +14,17 @@
 
 html {
   font-size: 100%;
+  font-family: $helveticaNeue;
   height: 100%;
 }
 
 body {
   background: #fff;
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $helveticaNeue;
+  //font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #404040;
   line-height: 1.7;
-  font-weight: 400;
+  font-weight: 200;
   font-size: 18px;
   height: 100%;
 }
@@ -38,7 +37,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $helveticaNeue;
+  //font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: $darkerGray;
   font-weight: bold;
 
@@ -362,6 +362,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
+  font-family: $helveticaNeue;
   border-bottom: 1px solid $lightGray;
 }
 
@@ -376,6 +377,7 @@ nav {
     /*border-left: 2px solid $gray;*/
     padding: 0.1em 1em;
     color: $gray;
+    font-family: $helveticaNeue;
     font-size: 22px;
     font-style: italic;
     background-color: #ede1ff;
@@ -446,7 +448,8 @@ body:after {
 }
 
 .post h1{
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $helveticaNeue;
+  //font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   text-align: center;
   font-weight: bold;
   font-kerning: auto;
@@ -455,7 +458,8 @@ body:after {
 }
 
 .page h1{
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: $helveticaNeue;
+  //font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   text-align: center;
   font-weight: bold;
   font-kerning: auto;
