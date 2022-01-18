@@ -10,4 +10,4 @@ During my internship I worked on two different projects. First, I worked on prot
 
 As I continue to work at Sigma, I really look forward to meeting the team in person in January. I will travel to San Francisco and visit CIDR as well. I would be pleased to meet other CIDR participants!
 
-Are you interested in research opportunities at Sigma? Visit <a href="https://www.sigmacomputing.com/careers/">our website</a> to find out more, or reach out to me or &#199;a&#x0011F;atay Demiralp.
+Are you interested in research opportunities at Sigma? Visit <a href="https://www.sigmacomputing.com/careers/" target="_blank">Sigma's website</a> to find out more, or reach out to me or &#199;a&#x0011F;atay Demiralp.
