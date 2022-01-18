@@ -1,8 +1,10 @@
+# frozen_string_literal: true
+
 source "https://rubygems.org"
 
-gem "jekyll"
-gem "jekyll-sitemap"
-gem "jekyll-feed"
-gem "jekyll-seo-tag"
-gem "jekyll-paginate"
-gem "jekyll-twitter-plugin"
+git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
+
+gem 'github-pages'
+gem 'jekyll-twitter-plugin'
+
+# gem "rails"
