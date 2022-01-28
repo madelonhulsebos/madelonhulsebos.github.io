@@ -43,6 +43,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
+gems:
+  - jemoji
+
 collections:
   projects:
     output: true
