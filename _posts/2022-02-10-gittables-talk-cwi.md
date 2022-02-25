@@ -4,4 +4,4 @@ title: "Presented GitTables at CWI."
 categories: Projects
 ---
 
-I gave a talk about GitTables at the Database Architectures group at Centrum Wiskunde & Informatica; watch it on YouTube [here](https://www.youtube.com/watch?v=jEBKcmdIFzw). We had many interesting discussions that led to new research ideas. If you have any questions about it feel free to reach out.
+I gave a talk about GitTables at the Database Architectures group at Centrum Wiskunde & Informatica. Watch the talk on YouTube [here](https://www.youtube.com/watch?v=jEBKcmdIFzw), or download the slides <a href="/assets/GitTables (slides).pdf" target="_blank">here</a>. We had many interesting discussions that led to new research ideas. If you have any questions about it, or suggestions for future work, please reach out.
