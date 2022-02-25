@@ -4,7 +4,9 @@ title: "Internship at Sigma Computing."
 categories: Work
 ---
 
-My industrial research journey started in June 2021 at Sigma Computing where I started as a research intern for 3 months. Although I stayed working from Amsterdam in the Netherlands, I was able to enjoy the energetic and ambitious environment since most colleagues were working from home due to covid restrictions.
+My industrial research journey started in June 2021 at <a href="https://www.sigmacomputing.com/" target="_blank"> Sigma Computing</a> where I started as a research intern for 3 months. It's been an amazing experience!
+
+Although I stayed working from Amsterdam in the Netherlands, I was able to enjoy the energetic and ambitious environment since most colleagues were working from home due to covid restrictions.
 
 During my internship I worked on two different projects. First, I worked on prototyping a system for data-driven decision making. Second, I worked on developing a framework and system for semantic type detection in practice. Both projects will be presented at CIDR next January!
 
