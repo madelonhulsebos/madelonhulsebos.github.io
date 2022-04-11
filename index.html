@@ -10,8 +10,8 @@ layout: default
   
  <div>
   <p>
-  Hi, I am Madelon Hulsebos, a PhD student at the University of Amsterdam and intern at Sigma Computing.<br>
-  I am interested in <b>learned table representations</b>, and their applications in <b>data management</b> like data integration, search and validation.
+  Hi, I am Madelon Hulsebos, a PhD student at the <a href="https://indelab.org/" target="_blank">UvA</a> and PhD Student Researcher at <a href="https://www.sigmacomputing.com/" target="_blank">Sigma</a>.<br>
+  I am interested in <b>learned table representations</b>, and their <b>applications in data management</b> like data integration, search and validation.
   </p>
 
   <p>
@@ -27,6 +27,30 @@ layout: default
 
   <p>
     Feel welcome to reach out (click on any channel below)!
-   </p>
+  </p>
+
  </div>
+
+ <h2>News</h2>
+  <ul>
+  {% for post in site.posts %}
+    <li>
+      <div>
+        <a href="{{ post.url }}">{{ post.title }}</a> <p  style="display:inline"> {{ post.date | date: "%b %d, %Y"}} </p>
+      </div>
+    </li>
+  {% endfor %}
+ </ul> 
+
+ <h2>Selected projects</h2>
+ <ul>
+  {% for project in site.projects %}
+    <h3>{{ project.title }}</h3>
+    <!-- <center>{{ project.startdate }} - {{  project.enddate }}</center> -->
+    <p>
+      {{ project.content }}
+    </p>
+  {% endfor %}
+</ul>
+
 </article>
