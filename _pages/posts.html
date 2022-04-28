@@ -6,11 +6,11 @@ permalink: /news/
 <!-- style="column-count: 2" -->
 <ul>
   {% for post in site.posts %}
-    <li>
-      <div>
+    <div>
+      <li style="list-style-type: '- ';">
         <a href="{{ post.url }}">{{ post.title }}</a> <p  style="display:inline"> {{ post.date | date: "%b %d, %Y"}} </p>
         {{ post.excerpt }}
-      </div>
-    </li>
+      </li>
+    </div>
   {% endfor %}
 </ul>

@@ -4,11 +4,14 @@ layout: default
 
 <article class="page">
 
+
 <br>
 <div style="text-align: center; transform: scale(3);">👋</div>
 <br>
   
- <div>
+<div style="text-align: left;">
+
+ <div style="text-align: left;">
   <p>
   Hi, I am Madelon Hulsebos, a PhD student at the <a href="https://indelab.org/" target="_blank">UvA</a> and PhD Student Researcher at <a href="https://www.sigmacomputing.com/" target="_blank">Sigma</a>.<br>
   I am interested in <b>Intelligent Data Systems</b>. So far, my research has been on <b>learned table representations</b> and their <b>applications</b> like data preparation, search, and analysis</b>.
@@ -21,7 +24,7 @@ layout: default
   </p>
 
   <p>
-  As part of the research community, I helped organizing the SemTab '21 challenge, and reviewed for NeurIPS '21 (Datasets & Benchmarks track), WWW '22 (Industry track), and EDBT '22 (Industry track).
+  As part of the research community, I support <a href="https://jsys.org" target="_blank">JSys</a> as Assistant Editor, co-organize the <a href="https://www.cs.ox.ac.uk/isg/challenges/sem-tab/" target="_blank">SemTab</a> '21/'22' challenge, and reviewed for various tracks at e.g. NeurIPS '21, WWW '22, AIDB@VLDB '22, and EDBT '22.
   Besides academia, I am member of the supervisory board of a student consulting firm and was a data scientist for 2+ years, working on automating ML-driven analyses. You can read more in my <a href="https://madelonhulsebos.github.io/assets/Resume%20M.%20Hulsebos.pdf" target="_blank">resume</a>.
   </p>
 
@@ -31,19 +34,8 @@ layout: default
 
  </div>
 
- <h2>News</h2>
-  <ul>
-  {% for post in site.posts %}
-    <li>
-      <div>
-        <a href="{{ post.url }}">{{ post.title }}</a> <p  style="display:inline"> {{ post.date | date: "%b %d, %Y"}} </p>
-      </div>
-    </li>
-  {% endfor %}
- </ul> 
-
  <h2>Selected projects</h2>
- <ul>
+ <div style="text-align: left;">
   {% for project in site.projects %}
     <h3>{{ project.title }}</h3>
     <!-- <center>{{ project.startdate }} - {{  project.enddate }}</center> -->
@@ -51,6 +43,17 @@ layout: default
       {{ project.content }}
     </p>
   {% endfor %}
-</ul>
+</div>
+
+<h2>News</h2>
+{% for post in site.posts %}
+  <div style="text-align: left;">
+    <li style="list-style-type: '- ';">
+      <a href="{{ post.url }}">{{ post.title }}</a> <p  style="display:inline"> {{ post.date | date: "%b %d, %Y"}} </p>
+    </li>
+  </div>
+{% endfor %}
+
+</div>
 
 </article>
