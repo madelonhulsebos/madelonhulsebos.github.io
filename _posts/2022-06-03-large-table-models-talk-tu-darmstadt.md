@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gave a talk at TU Darmstadt."
+title: "Gave a talk at the KomPAKI seminar at TU Darmstadt."
 categories: Projects
 ---
 
