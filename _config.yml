@@ -51,7 +51,7 @@ collections:
   projects:
     output: true
 
-include: ['_pages']
+include: ['_pages', '_pages']
 
 paginate: 3
 paginate_path: /news/page:num/
