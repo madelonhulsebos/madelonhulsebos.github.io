@@ -4,43 +4,40 @@ layout: default
 
 <article class="page">
 
-<div>
-  <span style="color:red">>> Come join the <a href="https://table-representation-learning.github.io" target="blank">Table Representation Learning workshop</a> at NeurIPS 2022 in New Orleans!</span>
+<br>
+
+<div style="text-align: center;">
+<img width="20%" src="{{ site.baseurl }}{{ site.avatar }}"/>
 </div>
-  
 
-<br>
-<br>
-<div style="text-align: center; transform: scale(3);">👋</div>
-<br>
+<div style="text-align: justify;">
 
-<div style="text-align: left;">
-
- <div style="text-align: left;">
+ <div style="text-align: justify;">
   <p>
-  Hi, I am Madelon Hulsebos, a PhD student at the <a href="https://indelab.org/" target="_blank">UvA</a> and PhD Student Researcher at <a href="https://www.sigmacomputing.com/" target="_blank">Sigma</a>.<br>
-  I am interested in <b>Intelligent Data Systems</b>. So far, my research has been on <b>learned table representations</b> and their <b>applications</b> like data preparation, search, and analysis</b>.
+  Hi! I'm a PhD candidate with the <a href="https://indelab.org" target="_blank">INDE Lab</a> at the <a href="https://indelab.org/" target="_blank">University of Amsterdam</a>.
+  So far, my research has been on <b>learned table representations</b> and their <b>applications</b> like data preparation, exploration, and analysis</b>.
+  My broader interest is in <b>Intelligent Data Systems</b> with a particular focus on systems for relational tables.
   </p>
 
   <p>
-  At the MIT Media Lab, I got the opportunity to develop <b><a href="https://sherlock.media.mit.edu/" target="_blank">Sherlock</a></b>, a deep learning method for detecting table semantics at scale, enabling applications like data validation.
-  The massive interest from industry in Sherlock inspired me to start a PhD (2020) at the <a href="https://indelab.org" target="_blank">INDE Lab (UvA)</a> to focus on improving table models and their applicability in practice.
-  A piece of this puzzle is <b><a href="https://gittables.github.io/" target="_blank">GitTables</a></b>: a dataset of 1.7M tables (and continuously growing) extracted from CSV files on GitHub, enriched with table semantics.
+  My excitement about 'tables' started at the MIT Media Lab, where I developed <b><a href="https://sherlock.media.mit.edu/" target="_blank">Sherlock</a></b>, a deep learning method for detecting table semantics at scale, enabling applications like data validation.
+  The huge interest from industry in Sherlock and the dominant presence of tables across data systems, inspired me to start a PhD at the <a href="https://indelab.org" target="_blank">INDE Lab (UvA)</a> in 2020 where I focus on learned table models and their effectiveness in practice.
+  A piece of this puzzle is <b><a href="https://gittables.github.io/" target="_blank">GitTables</a></b>: a dataset of 1.7M tables (but continuously growing) extracted from CSV files on GitHub and enriched with table semantics such as semantic column types.
   </p>
 
   <p>
-  As part of the research community, I support <a href="https://jsys.org" target="_blank">JSys</a> as Assistant Editor, co-organize the <a href="https://www.cs.ox.ac.uk/isg/challenges/sem-tab/" target="_blank">SemTab</a> '21/'22' challenge, and reviewed for various tracks at e.g. NeurIPS '21, WWW '22, AIDB@VLDB '22, and EDBT '22.
+  To motivate more research on this topic, I founded the <a href="https://table-representation-learning.github.io" target="blank">Table Representation Learning workshop</a> (hosted at NeurIPS 2022). As part of the wider research community, I support <a href="https://jsys.org" target="_blank">JSys</a> as Assistant Editor, co-organize the <a href="https://www.cs.ox.ac.uk/isg/challenges/sem-tab/" target="_blank">SemTab</a> '21/'22' challenge, and review for various workshops/tracks/venues at e.g. VLDB, EDBT, NeurIPS, WWW.
   Besides academia, I am member of the supervisory board of a student consulting firm and was a data scientist for 2+ years, working on automating ML-driven analyses. You can read more in my <a href="https://madelonhulsebos.github.io/assets/Resume%20M.%20Hulsebos.pdf" target="_blank">resume</a>.
   </p>
 
   <p>
-    Feel welcome to reach out (click on any channel below)!
+    Feel welcome to reach out (click on any channel in the footer)!
   </p>
 
  </div>
 
  <h2>Selected projects</h2>
- <div style="text-align: left;">
+ <div style="text-align: justify;">
   {% for project in site.projects %}
     <h3>{{ project.title }}</h3>
     <!-- <center>{{ project.startdate }} - {{  project.enddate }}</center> -->
@@ -52,7 +49,7 @@ layout: default
 
 <h2>Recent news</h2>
 {% for post in site.posts limit:5 %}
-  <div style="text-align: left;">
+  <div style="text-align: justify;">
     <li style="list-style-type: '- ';">
       <a href="{{ post.url }}">{{ post.title }}</a> <p  style="display:inline"> {{ post.date | date: "%b %d, %Y"}} </p>
       {{ post.excerpt }}

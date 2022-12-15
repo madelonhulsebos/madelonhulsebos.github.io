@@ -307,6 +307,12 @@ p > img {
   }
 }
 
+.one {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
 .site-name {
   //margin: 0;
   margin-top: 23px; // @TODO: Vertically middle align
