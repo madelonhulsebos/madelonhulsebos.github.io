@@ -52,6 +52,7 @@ layout: default
   {% endfor %}
 </div>
 
+
 <h2>Recent news</h2>
 {% for post in site.posts limit:5 %}
   <div style="text-align: justify;">
@@ -62,6 +63,13 @@ layout: default
   </div>
 {% endfor %}
 
+
+<div>
+  <br>
+  <div style="text-align: center;">
+      {% include svg-icons.html %}
+  </div>
 </div>
+
 
 </article>
