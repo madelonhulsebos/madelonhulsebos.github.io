@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gave a talk at the KomPAKI seminar at TU Darmstadt."
-categories: Projects
+categories: Talks
 ---
 
 I gave a talk about "Large Table Models for enterprise data management" at the KomPAKI seminar at TU Darmstadt which brings together AI and DB researchers.
