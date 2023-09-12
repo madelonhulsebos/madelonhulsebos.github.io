@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Presentation about `Making Table Understanding Work in Practice` at CIDR."
-categories: Projects
+categories: Talks
 ---
 
 I gave a short presentation at CIDR about my internship project at Sigma Computing regarding "Making Table Understanding Work in Practice". This presentation is published on YouTube [here](https://www.youtube.com/watch?v=-BE5rWNMXnU).
