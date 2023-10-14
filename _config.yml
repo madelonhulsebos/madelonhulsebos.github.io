@@ -48,6 +48,8 @@ gems:
   - jemoji
 
 collections:
+  talks:
+    output: false
   projects:
     output: true
 
