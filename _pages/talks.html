@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Talks
 permalink: /talks/
 ---
 <!-- style="column-count: 1" -->
+<h1>Invited Talks</h1>
 <ul>
 {% assign sorted = site.talks| reverse %}
 {% for talk in sorted %}
     {% if talk.type != "podcast"%}
     <p>
-    <i>{{ talk.title }}</i>, <a href="{{ talk.event_url }}">{{ talk.event }}</a>, {{ talk.date | date: "%d-%m-%Y" }}
+    <i>{{ talk.title }}</i>  - {{ talk.event }}, {{ talk.date | date: "%d-%m-%Y"}}
         {% if talk.slides_url %}
             | <a href="{{ talk.slides_url}}">slides</a>
         {% endif %} 
@@ -28,7 +28,7 @@ permalink: /talks/
 {% for talk in sorted %}
     {% if talk.type == "podcast"%}
     <p>
-    <i>{{ talk.title }}</i>, <a href="{{ talk.event_url }}">{{ talk.event }}</a>, {{ talk.date | date: "%d-%m-%Y" }}
+    <i>{{ talk.title }}</i>, {{ talk.event }}, {{ talk.date | date: "%d-%m-%Y" }}
         {% if talk.recording_url %}
             | <a href="{{ talk.recording_url}}">recording</a>
         {% else %}

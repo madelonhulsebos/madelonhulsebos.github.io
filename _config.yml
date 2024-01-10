@@ -52,6 +52,8 @@ collections:
     output: false
   projects:
     output: true
+  trl:
+    output: true
 
 include: ['_pages', '_pages']
 
