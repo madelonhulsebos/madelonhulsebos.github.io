@@ -17,7 +17,7 @@ Interested in this area? You may also be interested in:
 <ul>
 {% assign sorted = site.trl | reverse %}
 {% for paper in sorted %}
-    <a href="{{ paper.url | base_url }}" target="_blank">{{ paper.title }}</a> by {{ paper.authors }}, ({{ paper.venue }}, {{ paper.year }})
+    <a href="{{ paper.link }}" target="_blank">{{ paper.title }}</a> by {{ paper.authors }}, ({{ paper.venue }}, {{ paper.year }})
     <div>
         <details><summary>Abstract</summary>{{ paper.abstract }}</details>
     </div>

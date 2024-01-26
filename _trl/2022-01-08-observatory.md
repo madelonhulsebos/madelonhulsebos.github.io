@@ -1,6 +1,6 @@
 ---
 title: "Observatory: Characterizing Embeddings of Relational Tables"
-url: "https://arxiv.org/abs/2310.07736"
+link: "https://arxiv.org/abs/2310.07736"
 authors: "Cong et al."
 venue: "VLDB"
 year: 2023

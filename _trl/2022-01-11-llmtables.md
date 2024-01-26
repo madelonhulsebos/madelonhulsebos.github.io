@@ -1,6 +1,6 @@
 ---
 title: "Tabular Representation, Noisy Operators, and Impacts on Table Structure Understanding Tasks in LLMs"
-url: "https://arxiv.org/abs/2310.09263"
+link: "https://arxiv.org/abs/2310.09263"
 authors: "Singha et al."
 venue: "TRL @ NeurIPS"
 year: 2023

@@ -1,6 +1,6 @@
 ---
 title: "InsightPilot: An LLM-Empowered Automated Data Exploration System"
-url: "https://arxiv.org/abs/2301.08881"
+link: "https://arxiv.org/abs/2301.08881"
 authors: "Ma et al."
 venue: "ACL"
 year: 2023

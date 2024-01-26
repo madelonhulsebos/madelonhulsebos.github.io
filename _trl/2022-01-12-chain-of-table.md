@@ -1,6 +1,6 @@
 ---
 title: "Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding"
-url: https://arxiv.org/abs/2310.09263
+link: https://arxiv.org/abs/2310.09263
 authors: "Wang et al."
 venue: "ICLR"
 year: 2024

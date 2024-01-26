@@ -1,6 +1,6 @@
 ---
 title: "TableFormer: Robust Transformer Modeling for Table-Text Encoding"
-url: "https://arxiv.org/pdf/2203.00274.pdf"
+link: https://arxiv.org/pdf/2203.00274.pdf
 authors: "Yang et al."
 venue: "ACL"
 year: 2022

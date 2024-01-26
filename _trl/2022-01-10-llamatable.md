@@ -1,6 +1,6 @@
 ---
 title: "TableLlama: Towards Open Large Generalist Models for Tables"
-url: "https://arxiv.org/abs/2310.09263"
+link: "https://arxiv.org/abs/2310.09263"
 authors: "Zhang et al."
 venue: "ArXiv"
 year: 2023
