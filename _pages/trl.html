@@ -5,7 +5,7 @@ permalink: /trl/
 
 <h2>Table Representation Learning index (WIP)</h2>
 
-<div class="frame">Below you can find a list of interesting research on table representation learning (TRL) across the NLP/DB/ML communities.
+<div class="frame">Below you can find a list of research I find interesting around table representation learning (TRL) across the NLP/DB/ML communities.
 Interested in this area? You may also be interested in:
 <ul>
 <li>TRL mailinglist: <a href="https://forms.gle/1k5y3YMzojSfqDyd8" target="blank">https://forms.gle/1k5y3YMzojSfqDyd8</a></li>
@@ -17,9 +17,9 @@ Interested in this area? You may also be interested in:
 <ul>
 {% assign sorted = site.trl | reverse %}
 {% for paper in sorted %}
-    <p>
-    <a href="{{ paper.url }}" target="blank"><i>{{ paper.title }}</i></a> by {{ paper.authors }}, ({{ paper.venue }}, {{ paper.year }})
-    <br>{{ paper.abstract }}
-    </p>
+    <a href="{{ paper.url }}" target="blank">{{ paper.title }}</a> by {{ paper.authors }}, ({{ paper.venue }}, {{ paper.year }})
+    <div>
+        <details><summary>Abstract</summary>{{ paper.abstract }}</details>
+    </div>
 {% endfor %}
 </ul>
