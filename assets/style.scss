@@ -51,8 +51,12 @@ footer details {
   display: inline;
 }
 
+// h1, h2, h3, h4, h5, .site-title, .site-nav {
+//   font-family: 'Poppins', sans-serif;
+// }
+
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: 'Poppins', sans-serif; //$helveticaNeue;
   //font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: $darkerGray;
   font-weight: bold;
