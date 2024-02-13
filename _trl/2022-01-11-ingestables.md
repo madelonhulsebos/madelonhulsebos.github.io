@@ -1,0 +1,8 @@
+---
+title: "IngesTables: Scalable and Efficient Training of LLM-Enabled Tabular Foundation Models"
+link: "https://openreview.net/pdf?id=EocsZtcA7P"
+authors: "Yak et al."
+venue: "TRL @ NeurIPS"
+year: 2023
+abstract: "There is a massive amount of tabular data that can be taken advantage of via ‘foundation models’ to improve prediction performance for downstream tabular prediction tasks. However, numerous challenges constitute bottlenecks in building tabular foundation models, including learning semantic relevance between tables and features, mismatched schemes, arbitrarily high cardinality for categorical values, and scalability to many tables, rows and features. We propose IngesTables, a novel canonical tabular foundation model building framework, designed to address the aforementioned challenges. IngesTables employs LLMs to encode representations of table/feature semantics and the relationships, that are then modeled via an attention-based tabular architecture. Unlike other LLM-based approaches, IngesTables is much cheaper to train and faster to run inference, because of how LLM-generated embeddings are defined and cached. We show that IngesTables demonstrates significant improvements over commonly-used models like XGBoost on Clinical Trial datasets in standard supervised learning settings, and is competitive with tabular prediction models that are specialized for Clinical Trial datasets without incurring LLM-level cost and latency. Moreover, the transfer learning enabled by IngesTables is prominent – on Airbnb dataset, we demonstrate that IngesTables yields significant improvements when pretrained on large-scale relevant data, even with partially-overlapping features."
+---
