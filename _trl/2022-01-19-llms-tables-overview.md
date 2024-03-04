@@ -1,7 +1,7 @@
 ---
 title: "Large Language Models(LLMs) on Tabular Data: Prediction, Generation, and Understanding - A Survey"
 link: https://arxiv.org/pdf/2402.17944.pdf
-authors: "Fang, Xu, Tang et al."
+authors: "Fang, Xu, Tan et al."
 venue: "ArXiv"
 year: 2024
 abstract: "
