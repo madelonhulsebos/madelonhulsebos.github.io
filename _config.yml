@@ -7,7 +7,7 @@ name: Madelon Hulsebos
 author: Madelon Hulsebos
 
 # URL of profile picture
-avatar: https://github.com/madelonhulsebos.png
+avatar: /images/madelon-2.jpeg
 
 footer-links:
   email: madelon@berkeley.edu
@@ -55,7 +55,7 @@ collections:
   trl:
     output: true
 
-include: ['_pages', '_pages']
+include: ['_pages', '_pages', 'images/']
 
 paginate: 3
 paginate_path: /news/page:num/
