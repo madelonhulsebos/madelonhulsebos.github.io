@@ -1,6 +1,6 @@
 ---
 title: "Automating the Generation of a Functional Semantic Types Ontology with Foundational Models"
-link: https://arxiv.org/abs/2402.17882
+link: "https://arxiv.org/abs/2402.17882"
 authors: "Sachin Konan, et al."
 venue: "ACL"
 year: 2024
