@@ -8,7 +8,7 @@ Thrilled to share that I'm awarded the <a href="https://www.nwo.nl/nieuws/vijf-a
 
 Altogether this project is funded by $1.5M by NWO and CWI and will host 4 PhD students and 1 Postdoc researcher besides myself. This means that I'll be hiring PhDs and Postdocs for pioneering research on the intersection of AI, and tables and relational DBs! Are you interested? Share your info through <a href="https://forms.gle/JknqVqzxPyMhBGam7" target="blank">this form</a> and I’ll reach out soon! Please also share with friends and colleagues who might be interested.
 
-I am very grateful for the initial nomination by CWI and for being awarded the grant by NWO and and AiNed. I look forward to making the DataLibra vision a reality @cwi_da, and embarking on various interdisciplinary and cross-institute collaborations.
+I am very grateful for the initial nomination by CWI and for being awarded the grant by NWO and and AiNed. I look forward to making the DataLibra vision a reality, and embarking on various interdisciplinary and cross-institute collaborations.
 
 
 The project abstract is below:
