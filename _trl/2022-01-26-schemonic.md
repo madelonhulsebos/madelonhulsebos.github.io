@@ -1,5 +1,5 @@
 ---
-title: "Generating Succinct Descriptions of Database Schemata for Cost-Efficient Prompting of Large Language Models. "
+title: "Generating Succinct Descriptions of Database Schemata for Cost-Efficient Prompting of Large Language Models"
 link: "https://itrummer.github.io/drafts/SchemonicDraft.pdf"
 authors: "Immanuel Trummer"
 venue: "VLDB"
