@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Attended SIGMOD!"
+title: "SIGMOD recap!"
 categories: Work
 ---
 
