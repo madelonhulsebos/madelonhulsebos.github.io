@@ -4,7 +4,7 @@ title: "Awarded AiNed Fellowship Grant funding 5-year research project at CWI"
 categories: Work
 ---
 
-Thrilled to share that I'm awarded the <a href="https://www.nwo.nl/nieuws/vijf-ained-fellowship-beurzen-toegewezen" target="blank">AiNed Fellowship Grant</a> (worth $1M) to lead the 5-year DataLibra research project at CWI in Amsterdam starting fall 2024. DataLibra is focused on democratizing insight retrieval from structured data through representation and generative learning over tables.
+Thrilled to share that I'm awarded the <a href="https://www.nwo.nl/nieuws/vijf-ained-fellowship-beurzen-toegewezen" target="blank">AiNed Fellowship Grant</a> (worth $1M) to lead the 5-year DataLibra research project at CWI in Amsterdam starting fall 2024. DataLibra is focused on democratizing insight retrieval from structured data through representation learning and generative models for relational tables.
 
 Altogether this project is funded by $1.5M by NWO and CWI and will host 4 PhD students and 1 Postdoc researcher besides myself. This means that I'll be hiring PhDs and Postdocs for pioneering research on the intersection of AI, and tables and relational DBs! Are you interested? Share your info through <a href="https://forms.gle/JknqVqzxPyMhBGam7" target="blank">this form</a> and I’ll reach out soon! Please also share with friends and colleagues who might be interested.
 
