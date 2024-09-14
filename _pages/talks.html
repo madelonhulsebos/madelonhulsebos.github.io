@@ -28,7 +28,7 @@ permalink: /talks/
 {% for talk in sorted %}
     {% if talk.type == "podcast"%}
     <p>
-    <i>{{ talk.title }}</i>, {{ talk.event }}, {{ talk.date | date: "%d-%m-%Y" }}
+    <i>{{ talk.title }}</i>, {{ talk.event }} by {{ talk.host }}, {{ talk.date | date: "%d-%m-%Y" }}
         {% if talk.recording_url %}
             | <a href="{{ talk.recording_url}}">recording</a>
         {% else %}
