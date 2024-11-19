@@ -54,6 +54,8 @@ collections:
     output: true
   trl:
     output: true
+  upcoming:
+    output: true
 
 include: ['_pages', '_pages', 'images/']
 
