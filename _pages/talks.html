@@ -9,7 +9,7 @@ permalink: /talks/
 {% for talk in sorted %}
     {% if talk.type != "podcast"%}
     <p>
-    <i>{{ talk.title }}</i>  - {{ talk.event }}, {{ talk.date | date: "%d-%m-%Y"}}
+    <i>{{ talk.title }}</i>  - {{ talk.event }}, {{ talk.location}}, {{ talk.date | date: "%d-%m-%Y"}}
         {% if talk.slides_url %}
             | <a href="{{ talk.slides_url}}">slides</a>
         {% endif %} 
