@@ -52,7 +52,7 @@ collections:
     output: false
   projects:
     output: true
-  trl:
+  trlindex:
     output: true
   upcoming:
     output: true
