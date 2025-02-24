@@ -64,18 +64,6 @@ I'm generally interested in Table Representation Learning (TRL), with a particul
 </div>
 
 
-<h2>Upcoming</h2>
-{% assign sorted = site.upcoming %}
-{% for event in sorted %}
-<p>
-    <i>{{ event.title }}</i>  @ {{ event.venue }}, {{ event.date | date: "%d-%m-%Y"}}
-        {% if event.event_url %}
-            | <a href="{{ event.event_url}}">website</a>
-        {% endif %} 
-    </p>
-{% endfor %}
-
-
 <h2>Recent news</h2>
 {% for post in site.posts limit:5 %}
   <div style="text-align: justify;">

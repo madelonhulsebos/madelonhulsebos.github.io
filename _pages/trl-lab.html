@@ -40,6 +40,17 @@ In order of joining:
 <li>TRL community updates: <a href="https://discord.com/invite/E4AHvPKhxw" target="blank">TRL Discord</a>, <a href="https://bsky.app/profile/trl-research.bsky.social" target="blank">TRL Bluesky</a>, <a href="https://forms.gle/Lg1twbWvV8w83zH38"  target="blank">TRL Mailinglist</a></li>
 </p>
 
+<h2>Upcoming Events</h2>
+{% assign sorted = site.upcoming %}
+{% for event in sorted %}
+<p>
+    <i>{{ event.title }}</i>  @ {{ event.venue }}, {{ event.date | date: "%d-%m-%Y"}}
+        {% if event.event_url %}
+            | <a href="{{ event.event_url}}">website</a>
+        {% endif %} 
+    </p>
+{% endfor %}
+
 
 <h2>Collaborators and Sponsors</h2>
 <p>
