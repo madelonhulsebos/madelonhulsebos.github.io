@@ -9,11 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="https://scholar.google.com/citations?user=6IWQn2EAAAAJ&hl=en" target="_blank">Google Scholar</a></p><br>
-    <p><a href="https://www.linkedin.com/in/madelonhulsebos/" target="_blank">LinkedIn</a></p><br>
-    <p><a href="https://bsky.app/profile/madelonhulsebos.bsky.social" target="_blank">Bluesky</a></p><br>
-    <p><a href="mailto:madelon@cwi.nl" target="_blank">madelon@cwi.nl</a></p><br>
-    <p><a href="https://trl-lab.github.io" target="_blank">TRL lab page</a></p>
+    <p><a href="https://scholar.google.com/citations?user=6IWQn2EAAAAJ&hl=en" target="_blank">google scholar</a></p><br>
+    <p><a href="https://trl-lab.github.io" target="_blank">trl lab page</a></p><br>
+    <p><a href="https://www.linkedin.com/in/madelonhulsebos/" target="_blank">linkedin</a></p><br>
+    <p><a href="https://bsky.app/profile/madelonhulsebos.bsky.social" target="_blank">bluesky</a></p><br>
+    <p><a href="mailto:madelon@cwi.nl" target="_blank">madelon@cwi.nl</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -31,7 +31,7 @@ latest_posts:
 
 I'm a faculty at CWI where I lead the <a href="https://trl-lab.github.io" target="blank">Table Representation Learning (TRL) Lab</a> and am member of the Database Architectures group. I'm also faculty at ELLIS Amsterdam.
 
-My research is focused on Table Representation Learning (TRL) and generative models for tabular data. Tables are prevalent in the data landscape, contain valuable data, and power important decisions in organizations such as governments, enterprises, and hospitals. The objective, therefore, is to <i>democratizing insights from structured data</i> ✨. My research has been supported by an NWO AiNed grant, BIDS-Accenture Fellowship, and industry sponsors. My published research in this area is listed <a href="/publications">here</a>.
+My research is focused on Table Representation Learning (TRL) and generative models for tabular data. Tables are prevalent in the data landscape, contain valuable data, and power important decisions in organizations such as governments, enterprises, and hospitals. The objective, therefore, is to <i>democratize insights from structured data</i> ✨. My research has been supported by an NWO AiNed grant, BIDS-Accenture Fellowship, and industry sponsors. You can find an overview of my research <a href="/publications">here</a>.
 
 To establish tabular data as a key modality for AI, akin to images and text, I've been driving TRL initatives since 2020. In particular, I founded the Table Representation Learning workshop series at NeurIPS and ACL, established the TRL research theme at ELLIS Amsterdam, and organize related efforts. I'm reviewing for various tracks/workshops at e.g. VLDB, SIGMOD, NeurIPS, ICLR, and others.
 
