@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://madelonhulsebos.github.io/sitemap.xml
