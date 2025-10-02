@@ -1,1 +1,0 @@
-﻿Content to host personal site built from the Reverie Jekyll theme.
