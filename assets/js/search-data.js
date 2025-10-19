@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/talks/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "While making my CV web-digestible, you can download a pdf version there &amp;rarr;",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
+          },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "While making my CV web-digestible, you can download a pdf version there &amp;rarr;",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
