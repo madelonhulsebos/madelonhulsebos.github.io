@@ -15,7 +15,7 @@ Below, you can find a selection of talks, lectures, panels, and podcasts.
 UN ECE Expert Meeting on Statistical Data Confidentiality, October 2025 <br>
 
 - <i>Open-domain querying over structured data</i> [<a href="/assets/pdf/slides/SAPAI_open-domain_querying_talk.pdf" target="blank">pdf</a>] <br>
-ELLIS Scientific Day / IBM Seminar on Semantics and Tabular Data / SAP AI Research Retreat, May-October 2025<br>
+Amsterdam UMC / ELLIS Scientific Day / IBM Seminar on Semantics and Tabular Data / SAP AI Research Retreat, May-October 2025<br>
 
 - <i>What Table Representation Learning brings to Data Systems</i> [<a href="/assets/pdf/slides/ETH_TRL_data_systems_talk_lecture.pdf" target="blank">pdf</a>] <br>
 COMPASS Seminar ETH Zürich / CWI Lectures, December 2024 <br>
@@ -30,10 +30,10 @@ Microsoft Gray Systems Lab / University of Washington / Google Systems Research 
 Inria-Saclay / MLSys and SysML workshop @ BTW / HPI / TU Darmstadt, April-June 2024<br><br>
 
 
-<h5><b>Lectures</b></h5>
+<!-- <h5><b>Lectures</b></h5>
 
 - Representation Learning and Generative Models for Tabular Data [<a href="/assets/pdf/slides/TUBerlin_TRL_lecture.pdf" target="blank">pdf</a>]<br>
-BIFOLD TU Berlin, January 2025<br><br>
+BIFOLD TU Berlin, January 2025<br><br> -->
 
 
 <h5><b>Panels</b></h5>
