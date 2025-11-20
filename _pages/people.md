@@ -19,12 +19,14 @@ Postdoc and PhD
   <li>Daniel Gomm (PhD, 2024-)</li>
 </ul>
 </div>
-<br>
 
 MSc
 <div>
 <ul>
+  <li>Ivana Pleše (UvA, Jan 2026-)</li>
+  <li>Hongqian Xia (UvA, Jan 2026-)</li>
   <li>Lisa van Oosten (UvA, Jan 2026-)</li>
+  <li>Daniel De Dios Allegue (TU Delft, 2025-)</li>
   <li>Ahmed Omar (UU, 2025-)</li>
   <li>Wojciech Kosiuk (UvA ELLIS Honours, 2025-)</li>
   <li>Jan-Henrik Bertrand (UvA ELLIS Honours, 2025-)</li>
