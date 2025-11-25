@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i>This page is under construction (Oct 2025).</i>
+# subtitle: <i>This page is under construction (Oct 2025).</i>
 nav_order: 1
 
 profile:
@@ -41,11 +41,11 @@ Previously, I did a postdoc at UC Berkeley and obtained my PhD from the Universi
 
 Some research interests and contributions in TRL in line with my vision for democratizing insights from structured data:
 <ul>
-<li><b>Tabular insight extraction</b>: LLM robustness for <a href="https://aclanthology.org/2025.trl-1.21.pdf" target="blank">tabular reasoning</a>, <a href="https://target-benchmark.github.io/" target="blank">TARGET benchmark of table retrieval</a> in e2e querying.</li>
-<li><b>Dataset search</b>: vision and insights on <a href="https://dl.acm.org/doi/pdf/10.1145/3665939.3665959" target="blank">dataset search systems</a>, proactive task-based dataset search, e.g. <a href="https://dl.acm.org/doi/pdf/10.1145/3746059.3747727" target="blank">DataScout</a>.</li>
-<li><b>Tabular data semantics</b>: semantic type detection in tabular data, e.g. <a href="https://sherlock.media.mit.edu/" target="blank">Sherlock</a>, <i>contextual</i> <a href="https://indico.un.org/event/1016405/contributions/592/attachments/22957/65273/SDC2025_Sc_CWI-OCHA_Hulsebos.pdf" target="blank">sensitive data detection</a>.</li>
+<li><b>Tabular reasoning</b>: <a href="https://aclanthology.org/2025.trl-1.21.pdf" target="blank">LLMs for table QA</a>, <a href="https://target-benchmark.github.io/" target="blank">TARGET table retrieval benchmark</a>, <a href="https://arxiv.org/pdf/2511.04584" target="blank">NL query ambiguity in tabular data analysis</a>.</li>
+<li><b>Dataset search</b>: vision and insights on <a href="https://dl.acm.org/doi/pdf/10.1145/3665939.3665959" target="blank">dataset search systems</a>, proactive task-based dataset search <a href="https://dl.acm.org/doi/pdf/10.1145/3746059.3747727" target="blank">DataScout</a>.</li>
+<li><b>Table semantics</b>: semantic type detection in tabular data, e.g. <a href="https://sherlock.media.mit.edu/" target="blank">Sherlock</a>, <a href="https://indico.un.org/event/1016405/contributions/592/attachments/22957/65273/SDC2025_Sc_CWI-OCHA_Hulsebos.pdf" target="blank"><i>contextual</i> sensitive data detection</a>.</li>
 <li><b>Table embeddings</b>: <a href="https://www.vldb.org/pvldb/vol17/p849-cong.pdf" target="blank">Observatory</a> on relational properties in table embeddings, role of <a href="https://openreview.net/pdf?id=rELWIvq2Qy" target="blank">embedding metadata in table retrieval</a>.</li>
-<li><b>Large datasets for tabular learning</b>: <a href="https://gittables.github.io/" target="blank">GitTables</a> with 1M+ real-world tables, <a href="https://dl.acm.org/doi/pdf/10.1145/3654975" target="blank">SchemaPile</a> with real-world DB schemas.</li>
+<li><b>Corpora for tabular AI</b>: <a href="https://gittables.github.io/" target="blank">GitTables:</a> 1M+ real-world tables, <a href="https://huggingface.co/blog/cwolff/sqale" target="blank">SQaLe:</a> 500K+ text-to-SQL triples, <a href="https://dl.acm.org/doi/pdf/10.1145/3654975" target="blank">SchemaPile:</a> 22K+ DB schemas.</li>
 </ul>
 
 Other topics I am working on are: ML-powered tabular predictive insights, generative models for tabular data, and beyond.
