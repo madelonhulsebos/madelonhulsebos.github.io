@@ -13,7 +13,6 @@ Postdoc and PhD
 <div style="text-align: justify;">
 <ul>
   <li>Rohith Prakabaran (PhD, Jan 2026-)</li>
-  <li>Aécio Santos (postdoc, Dec 2025-)</li>
   <li>Effy Li (postdoc, 2025-)</li>
   <li>Cornelius Wolff (PhD, 2025-)</li>
   <li>Daniel Gomm (PhD, 2024-)</li>
@@ -31,7 +30,7 @@ MSc
   <li>Wojciech Kosiuk (UvA ELLIS Honours, 2025-)</li>
   <li>Jan-Henrik Bertrand (UvA ELLIS Honours, 2025-)</li>
   <li>Nikola Selic (TUM, 2025)</li>
-  <li>Liang Telkamp (UvA, 2025)</li>
+  <li>Liang Telkamp (UvA, 2025); &#127942; Amsterdam AI Thesis Award 2025</li>
 </ul>
 </div>
 

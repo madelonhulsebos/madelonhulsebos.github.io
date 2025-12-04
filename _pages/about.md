@@ -30,13 +30,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a faculty at CWI where I lead the <a href="https://trl-lab.github.io" target="blank">Table Representation Learning (TRL) Lab</a> and am member of the Database Architectures group. I'm also faculty at ELLIS Amsterdam.
+I'm a faculty at CWI where I lead the <a href="https://trl-lab.github.io" target="blank">Table Representation Learning (TRL) Lab</a>. I'm also faculty in the ELLIS unit Amsterdam. 
+Previously, I did a postdoc at UC Berkeley and obtained my PhD from the University of Amsterdam during which I spent time at MIT and Sigma Computing. Before academia, I spent 2+ years in industry working on ML-driven automated data analysis tools. Find my full CV <a href="/assets/pdf/CV.pdf" target="blank"><b>here</b></a>.
 
 My research is focused on table representation learning (TRL), generative models and systems for tabular data. Tables are prevalent in the data landscape, contain valuable data, and fuel important decisions in organizations in governments, industry, and healthcare. My objective, therefore, is to <i>democratize insights from structured data</i> ✨. My research has been supported by an NWO AiNed grant, BIDS-Accenture Fellowship, and industry sponsors. You can find an overview of my research interests below.
 
-To establish tabular data as a key modality for AI, akin to images and text, I've been driving TRL initatives since 2020. In particular, I founded the <a href="https://table-representation-learning.github.io/NeurIPS2024/" target="blank">Table Representation Learning workshop series</a> at NeurIPS and ACL, established the TRL research theme at ELLIS Amsterdam, and organize related efforts. I'm reviewing for various tracks/workshops at e.g. VLDB, SIGMOD, NeurIPS, ICLR, and others.
+To establish tabular data as a key modality for AI, akin to images and text, I've been driving TRL initatives since 2021. In particular, I founded the <a href="https://table-representation-learning.github.io/NeurIPS2024/" target="blank">Table Representation Learning workshop series</a> at NeurIPS and ACL, established the TRL research theme at ELLIS Amsterdam, and organize related efforts (&#10084; the tabular AI community). I'm reviewing for various tracks/workshops at e.g. NeurIPS, ICLR, VLDB, and SIGMOD.
 
-Previously, I did a postdoc at UC Berkeley and obtained my PhD from the University of Amsterdam during which I spent time at MIT and Sigma Computing. Before academia, I spent 2+ years in industry working on ML-driven automated data analysis tools. Full <a href="/assets/pdf/CV.pdf" target="blank"><b>CV</b></a>.
 
 
 Some research interests and contributions in TRL in line with my vision for democratizing insights from structured data:
