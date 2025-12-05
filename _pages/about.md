@@ -35,7 +35,7 @@ Previously, I did a postdoc at UC Berkeley and obtained my PhD from the Universi
 
 My research is focused on table representation learning (TRL), generative models and systems for tabular data. Tables are prevalent in the data landscape, contain valuable data, and fuel important decisions in organizations in governments, industry, and healthcare. My objective, therefore, is to <i>democratize insights from structured data</i> ✨. My research has been supported by an NWO AiNed grant, BIDS-Accenture Fellowship, and industry sponsors. You can find an overview of my research interests below.
 
-To establish tabular data as a key modality for AI, akin to images and text, I've been driving TRL initatives since 2021. In particular, I founded the <a href="https://table-representation-learning.github.io/NeurIPS2024/" target="blank">Table Representation Learning workshop series</a> at NeurIPS and ACL, established the TRL research theme at ELLIS Amsterdam, and organize related efforts (&#10084; the tabular AI community). I'm reviewing for various tracks/workshops at e.g. NeurIPS, ICLR, VLDB, and SIGMOD.
+To establish tabular data as a key modality for AI, akin to images and text, I've been driving TRL initatives since 2021. In particular, I founded the <a href="https://table-representation-learning.github.io/NeurIPS2024/" target="blank">Table Representation Learning workshop series</a> at NeurIPS and ACL, established the TRL research theme at ELLIS Amsterdam, and organize related efforts (&hearts; the tabular AI community). I'm reviewing for various tracks/workshops at e.g. NeurIPS, ICLR, VLDB, and SIGMOD.
 
 
 
