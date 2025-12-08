@@ -11,11 +11,14 @@ Below, you can find a selection of talks, lectures, panels, and podcasts.
 
 <h5><b>Talks</b></h5>
 
+- <i>What are we asking from Tabular Data?</i> [<a href="/assets/pdf/slides/AITD_EurIPS_keynote_tabular_questions.pdf" target="blank">pdf</a>]<br>
+AI for Tabular Data workshop @ EurIPS, December 2025 <br>
+
 - <i>Towards Contextualizing Sensitive Data Detection</i> [<a href="/assets/pdf/slides/UNECE_contextual_sensitive_data_talk.pdf" target="blank">pdf</a>] <br>
 UN ECE Expert Meeting on Statistical Data Confidentiality, October 2025 <br>
 
 - <i>Open-domain querying over structured data</i> [<a href="/assets/pdf/slides/SAPAI_open-domain_querying_talk.pdf" target="blank">pdf</a>] <br>
-Amsterdam UMC / ELLIS Scientific Day / IBM Seminar on Semantics and Tabular Data / SAP AI Research Retreat, May-October 2025<br>
+IBM Seminar on Semantics and Tabular Data / SAP AI Research Retreat / Amsterdam UMC / ELLIS Scientific Day, May-October 2025<br>
 
 - <i>What Table Representation Learning brings to Data Systems</i> [<a href="/assets/pdf/slides/ETH_TRL_data_systems_talk_lecture.pdf" target="blank">pdf</a>] <br>
 COMPASS Seminar ETH Zürich / CWI Lectures, December 2024 <br>
@@ -24,7 +27,7 @@ COMPASS Seminar ETH Zürich / CWI Lectures, December 2024 <br>
 BIDS Seminar UC Berkeley / SF Tech Meetup on AI and Relational Data, October 2024 <br>
 
 - <i>Advances, challenges, and opportunities in Table Representation Learning</i> [<a href="/assets/pdf/slides/UW_TRL_advances_challenges_talk.pdf" target="blank">pdf</a>] <br>
-Microsoft Gray Systems Lab / University of Washington / Google Systems Research / UC Berkeley, March-July 2024 <br>
+Microsoft Gray Systems Lab / Google Systems Research / UC Berkeley University of Washington, March-July 2024 <br>
 
 - <i>Towards Table Representation Learning for end-to-end data management and analysis</i> <br>>
 Inria-Saclay / MLSys and SysML workshop @ BTW / HPI / TU Darmstadt, April-June 2024<br><br>
