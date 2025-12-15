@@ -12,7 +12,7 @@ Below, you can find a selection of talks, lectures, panels, and podcasts.
 <h5><b>Talks</b></h5>
 
 - <i>What are we asking from Tabular Data?</i> [<a href="/assets/pdf/slides/AITD_EurIPS_keynote_tabular_questions.pdf" target="blank">pdf</a>]<br>
-AI for Tabular Data workshop @ EurIPS, December 2025 <br>
+Keynote at AI for Tabular Data workshop @ EurIPS, December 2025 <br>
 
 - <i>Towards Contextualizing Sensitive Data Detection</i> [<a href="/assets/pdf/slides/UNECE_contextual_sensitive_data_talk.pdf" target="blank">pdf</a>] <br>
 UN ECE Expert Meeting on Statistical Data Confidentiality, October 2025 <br>
