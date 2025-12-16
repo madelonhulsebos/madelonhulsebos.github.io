@@ -24,13 +24,14 @@ MSc
 <ul>
   <li>Hongqian Xia (UvA, Jan 2026-)</li>
   <li>Lisa van Oosten (UvA, Jan 2026-)</li>
-  <li>Ivana Pleše (UvA, Jan 2026-)</li>
-  <li>Daniel De Dios Allegue (TU Delft, 2025-)</li>
-  <li>Ahmed Omar (UU, 2025-)</li>
-  <li>Wojciech Kosiuk (UvA ELLIS Honours, 2025-)</li>
-  <li>Jan-Henrik Bertrand (UvA ELLIS Honours, 2025-)</li>
-  <li>Nikola Selic (TUM, 2025)</li>
-  <li>Liang Telkamp (UvA, 2025); &#127942; Amsterdam AI Thesis Award 2025</li>
+  <!-- <li>Ivana Pleše (UvA, Jan 2026-)</li> -->
+  <li>Louis Gehringer (UvA, Dec 2025-)</li>
+  <li>Daniel De Dios Allegue (TU Delft, Oct 2025-)</li>
+  <li>Ahmed Omar (UU, Oct 2025-)</li>
+  <li>Wojciech Kosiuk (UvA ELLIS Honours, July 2025-)</li>
+  <li>Jan-Henrik Bertrand (UvA ELLIS Honours, July 2025-)</li>
+  <li>Nikola Selic (TUM, Jan-Sep 2025)</li>
+  <li>Liang Telkamp (UvA, Jan-Aug 2025); &#127942; Amsterdam AI Thesis Award 2025</li>
 </ul>
 </div>
 
