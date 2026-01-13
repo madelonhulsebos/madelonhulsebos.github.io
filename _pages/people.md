@@ -12,7 +12,8 @@ I have the pleasure to work with many great people, among whom the following at 
 Postdoc and PhD
 <div style="text-align: justify;">
 <ul>
-  <li>Rohith Prakabaran (PhD, Jan 2026-)</li>
+  <li>Rohith Prabakaran (PhD, Jan 2026-)</li>
+  <li>Aécio Santos (postdoc, 2025-)</li>
   <li>Effy Li (postdoc, 2025-)</li>
   <li>Cornelius Wolff (PhD, 2025-)</li>
   <li>Daniel Gomm (PhD, 2024-)</li>
@@ -24,7 +25,6 @@ MSc
 <ul>
   <li>Hongqian Xia (UvA, Jan 2026-)</li>
   <li>Lisa van Oosten (UvA, Jan 2026-)</li>
-  <!-- <li>Ivana Pleše (UvA, Jan 2026-)</li> -->
   <li>Louis Gehringer (UvA, Dec 2025-)</li>
   <li>Daniel De Dios Allegue (TU Delft, Oct 2025-)</li>
   <li>Ahmed Omar (UU, Oct 2025-)</li>
@@ -37,4 +37,4 @@ MSc
 
 <br>
 
-Beyond the lab at CWI, I'm excited about collaborations with people from UC Berkeley, University of Amsterdam, Polytechnique Montréal, Inria-Saclay, UN OCHA Humanitarian Data Centre, Google Systems Research, and SAP.
+Beyond the lab at CWI, I'm excited about collaborations with people from UC Berkeley, University of Amsterdam, Stanford, Polytechnique Montréal, Inria-Saclay, UN OCHA Humanitarian Data Centre, SAP and Google Systems Research.
