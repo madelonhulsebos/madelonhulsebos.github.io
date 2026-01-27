@@ -35,13 +35,13 @@ Inria-Saclay / MLSys and SysML workshop @ BTW / HPI / TU Darmstadt, April-June 2
 
 <h5><b>Guest Lectures</b></h5>
 
-- Representation Learning and Generative Models for Tabular Data<br>
+- <i>Representation Learning and Generative Models for Tabular Data</i><br>
 University of Amsterdam (2026), BIFOLD TU Berlin (2025)<br><br>
 
 
 <h5><b>Panels</b></h5>
 
-- “Neural Relational Data: Tabular Foundation Models, LLMs... or both?”, VLDB conference, London, September 2025 <br>
+- <i>Neural Relational Data: Tabular Foundation Models, LLMs... or both?</i>, VLDB conference, London, September 2025 <br>
 
 - Transformers at Work, Zeta Alpha Amsterdam, September 2023<br>
 <br>
