@@ -33,10 +33,10 @@ Microsoft Gray Systems Lab / Google Systems Research / UC Berkeley University of
 Inria-Saclay / MLSys and SysML workshop @ BTW / HPI / TU Darmstadt, April-June 2024<br><br>
 
 
-<!-- <h5><b>Lectures</b></h5>
+<h5><b>Guest Lectures</b></h5>
 
-- Representation Learning and Generative Models for Tabular Data [<a href="/assets/pdf/slides/TUBerlin_TRL_lecture.pdf" target="blank">pdf</a>]<br>
-BIFOLD TU Berlin, January 2025<br><br> -->
+- Representation Learning and Generative Models for Tabular Data<br>
+University of Amsterdam (2026), BIFOLD TU Berlin (2025)<br><br>
 
 
 <h5><b>Panels</b></h5>
