@@ -11,6 +11,9 @@ Below, you can find a selection of talks, lectures, panels, and podcasts.
 
 <h5><b>Talks</b></h5>
 
+- <i>What AI is leaving on the table: Towards democratizing insights from tabular data</i> <br>
+<a href="https://aiforgood.itu.int/event/what-ai-is-leaving-on-the-table-towards-democratizing-insights-from-tabular-data/" target="blank">ELLIS AI for Good Seminar</a>, February 2026<br>
+
 - <i>What are we asking from Tabular Data?</i> [<a href="/assets/pdf/slides/AITD_EurIPS_keynote_tabular_questions.pdf" target="blank">pdf</a>]<br>
 Keynote at AI for Tabular Data workshop @ EurIPS, December 2025 <br>
 
@@ -29,7 +32,7 @@ BIDS Seminar UC Berkeley / SF Tech Meetup on AI and Relational Data, October 202
 - <i>Advances, challenges, and opportunities in Table Representation Learning</i> [<a href="/assets/pdf/slides/UW_TRL_advances_challenges_talk.pdf" target="blank">pdf</a>] <br>
 Microsoft Gray Systems Lab / Google Systems Research / UC Berkeley University of Washington, March-July 2024 <br>
 
-- <i>Towards Table Representation Learning for end-to-end data management and analysis</i> <br>>
+- <i>Towards Table Representation Learning for end-to-end data management and analysis</i> <br>
 Inria-Saclay / MLSys and SysML workshop @ BTW / HPI / TU Darmstadt, April-June 2024<br><br>
 
 
