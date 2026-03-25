@@ -12,7 +12,7 @@ I have the pleasure to work with many great people, among whom the following at 
 Postdoc and PhD
 <div style="text-align: justify;">
 <ul>
-  <li><a href="https://loevlie.github.io/" target="blank">Dennis Loevlie</a> (PhD, Jan 2026-)</li>
+  <li><a href="https://loevlie.github.io/" target="blank">Dennis Loevlie</a> (PhD, incoming: Aug 2026-)</li>
   <li><a href="https://rohith-prabakaran.github.io/" target="blank">Rohith Prabakaran</a> (PhD, Jan 2026-)</li>
   <li><a href="https://aeciosantos.com/" target="blank">Aécio Santos</a> (postdoc, 2025-)</li>
   <li><a href="https://effyli.github.io/" target="blank">Effy Li</a> (postdoc, 2025-)</li>
