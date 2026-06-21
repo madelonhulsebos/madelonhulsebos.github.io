@@ -11,7 +11,8 @@ Below, you can find a selection of talks, lectures, panels, and podcasts.
 
 <h5><b>Talks</b></h5>
 
-- <i>What AI is leaving on the table: Towards democratizing insights from tabular data</i> (Feb 2026) <br>
+- <i>What AI is leaving on the table: Towards democratizing insights from tabular data</i> (Feb-June 2026) <br>
+    - <a href="https://ivi.fnwi.uva.nl/ellis/events/deep-learning-extravaganza-2026/" target="blank">ELLIS Amsterdam Deep Learning Extravaganza</a>
     - <a href="https://aiforgood.itu.int/event/what-ai-is-leaving-on-the-table-towards-democratizing-insights-from-tabular-data/" target="blank">ELLIS AI for Good Seminar</a>
     <br><br>
 
