@@ -25,13 +25,13 @@ MSc
 <div>
 <ul>
   <li>Yme Kingma (Radboud, Feb 2026-)</li>
-  <li>Hongqian Xia (UvA, Jan 2026-)</li>
-  <li>Lisa van Oosten (UvA, Jan 2026-)</li>
   <li>Louis Gehringer (UvA ELLIS Honours, Dec 2025-)</li>
   <li>Daniel De Dios Allegue (TU Delft, Oct 2025-)</li>
+  <li>Lisa van Oosten (UvA, Jan 2026-)</li>
+  <li>Hongqian Xia (UvA, Jan 2026-)</li>
   <li>Ahmed Omar (UU, Oct 2025-)</li>
-  <li>Wojciech Kosiuk (UvA ELLIS Honours, July 2025-)</li>
-  <li>Jan-Henrik Bertrand (UvA ELLIS Honours, July 2025-)</li>
+  <li>Wojciech Kosiuk (UvA ELLIS Honours, July 2025-2026), now at Mistral</li>
+  <li>Jan-Henrik Bertrand (UvA ELLIS Honours, July 2025-2026), now at startup</li>
   <li>Nikola Selic (TUM, Jan-Sep 2025)</li>
   <li>Liang Telkamp (UvA, Jan-Aug 2025, &#127942;Amsterdam AI Thesis Award 2025), now at UN/NextHuman</li>
 </ul>
