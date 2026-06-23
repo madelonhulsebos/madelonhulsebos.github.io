@@ -21,6 +21,7 @@ Below, you can find a selection of talks, lectures, panels, and podcasts.
     <br><br>
 
 - <i>Towards Contextualizing Sensitive Data Detection</i> [<a href="/assets/pdf/slides/UNECE_contextual_sensitive_data_talk.pdf" target="blank">pdf</a>] (Oct 2025) <br>
+    - ICMD Consultation Session, Raoul Wallenberg Institute of Human Rights and Humanitarian Law
     - UN ECE Expert Meeting on Statistical Data Confidentiality
     <br><br>
 

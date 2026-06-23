@@ -33,7 +33,7 @@ MSc
   <li>Wojciech Kosiuk (UvA ELLIS Honours, July 2025-2026), now at Mistral</li>
   <li>Jan-Henrik Bertrand (UvA ELLIS Honours, July 2025-2026), now at startup</li>
   <li>Nikola Selic (TUM, Jan-Sep 2025)</li>
-  <li>Liang Telkamp (UvA, Jan-Aug 2025, &#127942;Amsterdam AI Thesis Award 2025), now at UN/NextHuman</li>
+  <li>Liang Telkamp (UvA, Jan-Aug 2025, &#127942;Amsterdam AI Thesis Award 2025), now at United Nations</li>
 </ul>
 </div>
 
