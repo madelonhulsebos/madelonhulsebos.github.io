@@ -12,6 +12,7 @@ I have the pleasure to work with many great people, among whom the following at 
 Postdoc and PhD
 <div style="text-align: justify;">
 <ul>
+  <li><a href="https://fr.linkedin.com/in/giulia-perciballi-1157411a4" target="blank">Giulia Perciballi</a> (PhD intern incoming, Sep 2026-)</li>
   <li><a href="https://loevlie.github.io/" target="blank">Dennis Loevlie</a> (PhD, Aug 2026-)</li>
   <li><a href="https://rohith-prabakaran.github.io/" target="blank">Rohith Prabakaran</a> (PhD, Jan 2026-)</li>
   <li><a href="https://aeciosantos.com/" target="blank">Aécio Santos</a> (postdoc, 2025-)</li>
@@ -24,12 +25,12 @@ Postdoc and PhD
 MSc
 <div>
 <ul>
-  <li>Yme Kingma (Radboud, Feb 2026-)</li>
-  <li>Louis Gehringer (UvA ELLIS Honours, Dec 2025-)</li>
   <li>Daniel De Dios Allegue (TU Delft, Oct 2025-)</li>
-  <li>Lisa van Oosten (UvA, Jan 2026-)</li>
-  <li>Hongqian Xia (UvA, Jan 2026-)</li>
-  <li>Ahmed Omar (UU, Oct 2025-)</li>
+  <li>Hongqian Xia (UvA, 2026), now at Booking</li>
+  <li>Lisa van Oosten (UvA, 2026), now at TBC</li>
+  <li>Yme Kingma (Radboud, 2026), now at TBC</li>
+  <li>Ahmed Omar (UU, Oct 2025-2026), now at Uber</li>
+  <li>Louis Gehringer (UvA ELLIS Honours, 2026), now at startup</li>
   <li>Wojciech Kosiuk (UvA ELLIS Honours, July 2025-2026), now at Mistral</li>
   <li>Jan-Henrik Bertrand (UvA ELLIS Honours, July 2025-2026), now at startup</li>
   <li>Nikola Selic (TUM, Jan-Sep 2025)</li>
