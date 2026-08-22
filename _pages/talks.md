@@ -11,6 +11,10 @@ Below, you can find a selection of talks, lectures, panels, and podcasts.
 
 <h5><b>Talks</b></h5>
 
+- <i>On the Different Flavors of Tabular Reasoning</i> (June-2026) [<a href="/assets/pdf/slides/tabular_reasoning_flavors.pdf" target="blank">pdf</a>]<br>
+    - Institute for Language, Cognition and Computation Seminar, University of Edinburgh
+    - AI Research Retreat, SAP
+
 - <i>What AI is leaving on the table: Towards democratizing insights from tabular data</i> (Feb-June 2026) <br>
     - <a href="https://ivi.fnwi.uva.nl/ellis/events/deep-learning-extravaganza-2026/" target="blank">ELLIS Amsterdam Deep Learning Extravaganza</a>
     - <a href="https://aiforgood.itu.int/event/what-ai-is-leaving-on-the-table-towards-democratizing-insights-from-tabular-data/" target="blank">ELLIS AI for Good Seminar</a>
