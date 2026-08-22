@@ -12,6 +12,7 @@ I have the pleasure to work with many great people, among whom the following at 
 Postdoc and PhD
 <div style="text-align: justify;">
 <ul>
+  <li><a href="https://flefebv.github.io/" target="blank">Félix Lefebvre</a> (postdoc incoming, Nov 2026-)</li>
   <li><a href="https://fr.linkedin.com/in/giulia-perciballi-1157411a4" target="blank">Giulia Perciballi</a> (PhD intern incoming, Sep 2026-)</li>
   <li><a href="https://loevlie.github.io/" target="blank">Dennis Loevlie</a> (PhD, Aug 2026-)</li>
   <li><a href="https://rohith-prabakaran.github.io/" target="blank">Rohith Prabakaran</a> (PhD, Jan 2026-)</li>
