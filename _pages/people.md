@@ -13,7 +13,6 @@ Postdoc and PhD
 <div style="text-align: justify;">
 <ul>
   <li><a href="https://flefebv.github.io/" target="blank">Félix Lefebvre</a> (postdoc incoming, Nov 2026-)</li>
-  <li><a href="https://fr.linkedin.com/in/giulia-perciballi-1157411a4" target="blank">Giulia Perciballi</a> (PhD intern incoming, Sep 2026-)</li>
   <li><a href="https://loevlie.github.io/" target="blank">Dennis Loevlie</a> (PhD, Aug 2026-)</li>
   <li><a href="https://rohith-prabakaran.github.io/" target="blank">Rohith Prabakaran</a> (PhD, Jan 2026-)</li>
   <li><a href="https://aeciosantos.com/" target="blank">Aécio Santos</a> (postdoc, 2025-)</li>
@@ -23,14 +22,23 @@ Postdoc and PhD
 </ul>
 </div>
 
+PhD Visitors
+<div style="text-align: justify;">
+<ul>
+  <li><a href="https://www.nourheshamshaheen.com/" target="blank">Nour Shaheen</a> (Sep - Nov 2026)</li>
+  <li><a href="https://scholar.google.com/citations?user=faTUyWAAAAAJ&hl=en" target="blank">Giulia Perciballi</a> (Sep - Dec 2026)</li>
+  <li><a href="https://allaaboutaleb.com/" target="blank">Allaa Boutaleb</a> (June 2026)</li>
+</ul>
+</div>
+
 MSc
 <div>
 <ul>
-  <li>Daniel De Dios Allegue (TU Delft, Oct 2025-)</li>
+  <li><a href="https://daniallegue.github.io/" target="blank">Daniel De Dios Allegue</a> (TU Delft, Oct 2025-2026), now at Cambridge</li>
   <li>Hongqian Xia (UvA, 2026), now at Booking</li>
   <li>Lisa van Oosten (UvA, 2026), now at TBC</li>
   <li>Yme Kingma (Radboud, 2026), now at TBC</li>
-  <li>Ahmed Omar (UU, Oct 2025-2026), now at Uber</li>
+  <li><a href="https://ahmedomaro.github.io/" target="blank">Ahmed Omar</a> (UU, Oct 2025-2026), now at Uber</li>
   <li>Louis Gehringer (UvA ELLIS Honours, 2026), now at startup</li>
   <li>Wojciech Kosiuk (UvA ELLIS Honours, July 2025-2026), now at Mistral</li>
   <li>Jan-Henrik Bertrand (UvA ELLIS Honours, July 2025-2026), now at startup</li>
