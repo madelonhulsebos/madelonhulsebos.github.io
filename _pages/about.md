@@ -10,11 +10,12 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <br>
     <p><a href="https://scholar.google.com/citations?user=6IWQn2EAAAAJ&hl=en" target="_blank">google scholar</a></p><br>
     <p><a href="https://trl-lab.github.io" target="_blank">trl lab page</a></p><br>
     <p><a href="https://www.linkedin.com/in/madelonhulsebos/" target="_blank">linkedin</a></p><br>
     <p><a href="https://bsky.app/profile/madelonhulsebos.bsky.social" target="_blank">bluesky</a></p><br>
-    <p><a href="mailto:madelon@cwi.nl" target="_blank">madelon@cwi.nl</a><br><br><br></p>
+    <p><a href="mailto:madelon@cwi.nl" target="_blank">madelon@cwi.nl</a><br><br></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
