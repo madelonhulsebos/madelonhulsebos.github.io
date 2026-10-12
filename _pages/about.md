@@ -14,7 +14,7 @@ profile:
     <p><a href="https://trl-lab.github.io" target="_blank">trl lab page</a></p><br>
     <p><a href="https://www.linkedin.com/in/madelonhulsebos/" target="_blank">linkedin</a></p><br>
     <p><a href="https://bsky.app/profile/madelonhulsebos.bsky.social" target="_blank">bluesky</a></p><br>
-    <p><a href="mailto:madelon@cwi.nl" target="_blank">madelon@cwi.nl</a></p>
+    <p><a href="mailto:madelon@cwi.nl" target="_blank">madelon@cwi.nl</a><br><br><br></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -30,16 +30,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a (tenured) researcher at CWI where I lead the <a href="https://trl-lab.github.io" target="blank">Table Representation Learning (TRL) Lab</a>. I'm also faculty and MT member of the ELLIS unit Amsterdam, and Member of the Scientific Advisory Board of Prior Labs.
+I'm a researcher at CWI (tenured in April '26) where I lead the <a href="https://trl-lab.github.io" target="blank">Table Representation Learning (TRL) Lab</a>. I'm also an ELLIS Scholar and faculty MT member of the ELLIS unit Amsterdam, and Member of the Scientific Advisory Board of Prior Labs.
 Previously, I did a postdoc at UC Berkeley and obtained my PhD from the University of Amsterdam for which I spent time at MIT and Sigma Computing. Before academia, I spent 2+ years in industry working on ML-driven automated data science tools. Find my full CV <a href="/assets/pdf/CV.pdf" target="blank"><b>here</b></a>.
 
-My research is focused on table representation learning (TRL), basically anything "AI for tabular data", as tables are prevalent in the data landscape, contain valuable data, and fuel important decisions in organizations in governments, industry, and healthcare. My objective, therefore, is to <i><u>democratize insights from tabular data</u></i> ✨. My research has been supported by an NWO AiNed grant, BIDS-Accenture Fellowship, CWI internal funding, and industry sponsors. You can find an overview of my research interests below.
+My research is focused on table representation learning (TRL), basically anything "AI for tabular data", since tables prevail in the data landscape, contain valuable insights, and fuel important decisions in everywhere from governments and industry to healthcare. My vision is to <i><u>democratize insights from tabular data</u></i> ✨, and my research is centered around that (see below). My research has been supported by an NWO AiNed grant, BIDS-Accenture Fellowship, CWI internal funding, and industry sponsors.
 
-To establish tabular data as a key modality for AI, akin to images and text, I've been driving TRL initatives since 2021. In particular, I founded the <a href="https://table-representation-learning.github.io/NeurIPS2024/" target="blank">Table Representation Learning workshop series</a> at NeurIPS and ACL, established the TRL research theme at ELLIS Amsterdam, and organize related efforts (&hearts; the tabular AI community). I'm reviewing for various tracks/workshops at e.g. NeurIPS, ICLR, ACL, and SIGMOD.
+In 2021, I set the goal to establish tabular data as a key modality for AI, akin to images and text. To this end, and ever since, I've happily been driving Tabular AI &hearts; initiatives: I founded the <a href="https://table-representation-learning.github.io/NeurIPS2024/" target="blank">Table Representation Learning (TRL) workshop series</a> at NeurIPS and ACL, organized various related efforts at Dagstuhl, EurIPS, etc, and established the TRL research theme at ELLIS Amsterdam. I'm generally reviewing for various research tracks/workshops at e.g. NeurIPS, ICLR, ACL, and SIGMOD.<br>
 
 
 
-Some research interests and contributions in TRL in line with my vision for democratizing insights from structured data:
+Some research interests and contributions in Tabular AI in line with my vision for democratizing insights from structured data:
 <ul>
 <li><b>Tabular reasoning</b>: <a href="https://target-benchmark.github.io/" target="blank">TARGET</a> table retrieval benchmark, <a href="https://aclanthology.org/2025.trl-1.21.pdf" target="blank">LLMs for table QA</a>, <a href="https://arxiv.org/pdf/2511.04584" target="blank">question ambiguity in tabular data analysis</a>.</li>
 <li><b>Table semantics</b>: semantic column type detection (e.g. <a href="https://sherlock.media.mit.edu/" target="blank">Sherlock</a>) and <a href="https://arxiv.org/pdf/2512.04120" target="blank">contextual sensitivity detection </a>.</li>
@@ -48,4 +48,4 @@ Some research interests and contributions in TRL in line with my vision for demo
 <li><b>Corpora for tabular AI</b>: <a href="https://gittables.github.io/" target="blank">GitTables:</a> 1M+ real-world tables, <a href="https://arxiv.org/pdf/2602.22223" target="blank">SQaLe:</a> 500K+ text-to-SQL triples, <a href="https://dl.acm.org/doi/pdf/10.1145/3654975" target="blank">SchemaPile:</a> 22K+ DB schemas.</li>
 </ul>
 
-Other topics I am working on are: ML-powered tabular predictive insights, generative models for tabular data, and beyond.
+Other topics I am working on are: agentic data science, tabular predictive insights (e.g., tabular foundation models), and beyond.
