@@ -3,13 +3,46 @@
 
 @string{aps = {American Physical Society,}}
 
+
+@misc{li2026silentfailuresagenticdata,
+      title={The Silent Failures in Agentic Data Science}, 
+      author={Xue Li and Hongqian Xia and Daniel Gomm and Aécio Santos and Cornelius Wolff and Madelon Hulsebos},
+      year={2026},
+      eprint={2610.14115},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      pdf={https://arxiv.org/pdf/2610.14115}, 
+      url={https://arxiv.org/abs/2610.14115},
+      abstract={Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formulation to model development. Existing evaluations of agentic data science (agentic DS) assess downstream predictive performance and code correctness, providing preliminary insight in agentic DS capabilities. We argue that these evaluations overlook the fundamental principles of data science: methodological data science- and domain knowledge. As such, only assessing downstream performance masks methodological failures such as data leakage and inappropriate validation, limiting the development of robust agentic DS systems. In this paper, we evaluate agentic DS beyond accuracy from three different angles: 1) a large-scale analysis of failure modes in common agentic DS frameworks and models across 220 data science tasks, 2) a reusable and extensible test suite with curated data science tasks that test for six specific failures in a controlled manner, and 3) a qualitative assessment of agentic DS pipelines against expert solutions on Kaggle competitions. We find that the majority of agentic solutions contain at least one failure mode despite the complexity of agentic harness or model capacity. Moreover, we identify a positive correlation between the occurrence of data leakage failures and predictive performance, confirming the necessity to evaluate agents beyond accuracy. Our qualitative analysis shows that DS agents generally lack problem solving creativity and domain knowledge, compared to competition-winning data scientists. We believe that principled failure mode analysis, as presented here, should be integral part of agentic DS evaluations, and that the insights we surface will be key in developing trustworthy agentic DS pipelines.}
+}
+
+
 @article{gomm2026openti,
   title={Open Tabular Insight Extraction: Where Do We Stand, and Where Should We Go?},
   author={Gomm, Daniel and de Rijke, Maarten and Hulsebos, Madelon},
   journal={arXiv preprint arXiv:2609.07629},
   url={https://open-tabular-insight-extraction.github.io}, 
   pdf={https://arxiv.org/pdf/2609.07629},
-  year={2026}
+  year={2026},
+  abstract={Democratizing access to the knowledge held in large corpora of tables such as data lakes is
+emerging as a central research challenge. Research in this space is advancing and broadening
+in scope, increasingly supplying the components to satisfy a person’s insight need end-to-end.
+Yet these efforts remain fragmented across communities that frame the problem under their
+own conventions, such as table question answering, text-to-SQL, and data analysis agents,
+with works six times as likely to cite within the same task label as across labels. To bring
+these communities onto common ground, we establish a holistic framework for this pursuit,
+which we refer to as Open Tabular Insight Extraction (OpenTI). We formalize OpenTI from
+first principles around the analytical knowledge a person needs, the procedure for deriving
+it from a corpus of tables, and how well a result serves the person who sought it. In doing so
+we consolidate frameworks and terminology across information retrieval, natural language
+processing, machine learning, databases, and human-computer interaction, and apply this
+grounding in a systematic review and analysis of systems and benchmarks that work towards
+OpenTI. We find that current systems do not cover the end-to-end scope of OpenTI, mainly
+focusing on the analysis itself, and that benchmarks are largely unfit for evaluations in an
+open setting as inputs presuppose knowledge of tables, and validation mechanisms do not
+match the setup. Finally, we distill a research agenda towards OpenTI systems, evaluation,
+and interaction paradigms that surface the insights users need. An interactive companion
+to our paper is available at https://open-tabular-insight-extraction.github.io.}
 }
 
 

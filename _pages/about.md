@@ -42,11 +42,10 @@ In 2021, I set the goal to establish tabular data as a key modality for AI akin 
 
 Some research interests and contributions in Tabular AI in line with my vision for democratizing insights from structured data:
 <ul>
-<li><b>Tabular reasoning</b>: <a href="https://target-benchmark.github.io/" target="blank">TARGET</a> table retrieval benchmark, <a href="https://aclanthology.org/2025.trl-1.21.pdf" target="blank">LLMs for table QA</a>, <a href="https://arxiv.org/pdf/2511.04584" target="blank">question ambiguity in tabular data analysis</a>.</li>
-<li><b>Table semantics</b>: semantic column type detection (e.g. <a href="https://sherlock.media.mit.edu/" target="blank">Sherlock</a>) and <a href="https://arxiv.org/pdf/2512.04120" target="blank">contextual sensitivity detection </a>.</li>
+<li><b>Tabular reasoning</b>: <a href="https://arxiv.org/pdf/2511.04584" target="blank">question ambiguity in tabular data analysis</a>, detecting tabular semantics (e.g. column types <a href="https://sherlock.media.mit.edu/" target="blank">Sherlock</a>) and <a href="https://arxiv.org/pdf/2512.04120" target="blank">contextual sensitivity</a>, why you shouldn't use <a href="https://aclanthology.org/2025.trl-1.21.pdf" target="blank">LLMs for tabular QA</a>.</li>
+<li><b>Predictive data science</b>: on the <a href="https://arxiv.org/pdf/2610.14115" target="blank">silent failures in agentic data science</a> (new!).</li>
+<li><b>Table retrieval & embeddings</b>: towards <a href="https://open-tabular-insight-extraction.github.io/" target="blank">open tabular insight extraction</a> (new!), benchmarking table retrieval (<a href="https://target-benchmark.github.io/" target="blank">TARGET</a>), <a href="https://arxiv.org/pdf/2603.07146" target="blank">DCTR retriever</a> for complex queries, <a href="https://www.vldb.org/pvldb/vol17/p849-cong.pdf" target="blank">Observatory</a> on relational properties in table embeddings.</li>
 <li><b>Dataset search</b>: vision and insights on <a href="https://dl.acm.org/doi/pdf/10.1145/3665939.3665959" target="blank">dataset search systems</a>, proactive task-based dataset search <a href="https://dl.acm.org/doi/pdf/10.1145/3746059.3747727" target="blank">DataScout</a>.</li>
-<li><b>Table embeddings & retrieval</b>: <a href="https://www.vldb.org/pvldb/vol17/p849-cong.pdf" target="blank">Observatory</a> on relational properties in table embeddings, <a href="https://arxiv.org/pdf/2603.07146" target="blank">DCTR retriever</a> for complex queries.</li>
-<li><b>Corpora for tabular AI</b>: <a href="https://gittables.github.io/" target="blank">GitTables:</a> 1M+ real-world tables, <a href="https://arxiv.org/pdf/2602.22223" target="blank">SQaLe:</a> 500K+ text-to-SQL triples, <a href="https://dl.acm.org/doi/pdf/10.1145/3654975" target="blank">SchemaPile:</a> 22K+ DB schemas.</li>
-</ul>
-
-Other topics I am working on are: agentic data science, tabular predictive insights (e.g., tabular foundation models), and beyond.
+<li><b>Corpora for tabular AI</b>: <a href="https://arxiv.org/pdf/2602.22223" target="blank">SQaLe: 500K+ text2SQL samples</a> (new!), <a href="https://gittables.github.io/" target="blank">GitTables:</a> 1M+ real-world tables, <a href="https://dl.acm.org/doi/pdf/10.1145/3654975" target="blank">SchemaPile:</a> 22K+ DB schemas.</li>
+<!-- </ul>
+Other topics I am working on are: agentic data science, tabular predictive insights (e.g., tabular foundation models), and beyond. -->
