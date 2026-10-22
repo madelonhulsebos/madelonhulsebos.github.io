@@ -4,6 +4,20 @@
 @string{aps = {American Physical Society,}}
 
 
+@misc{prabakaran2026tabularselectiveattention,
+      title={Tabular Selective Attention}, 
+      author={Rohith Prabakaran and Daniel De Dios Allegue and Nour Shaheen and David Holzmuller and Madelon Hulsebos},
+      year={2026},
+      abstract={Tabular foundation models (TFMs) predict each test row by attending over a context of labelled training rows, so a prediction is only as good as the set of rows attention averages over. While these models perform well in low-data regimes, current state-of-the-art models employ context curation to generalize over larger datasets. Existing curation methods either sharpen attention with a temperature or shrink the context with nearest-neighbour retrieval. We prove that temperature scaling faces an inherent tradeoff: a single scalar must balance suppressing the uninformative tail against preserving the attention mass over the entire informative set. Retrieval avoids this tradeoff by explicitly selecting which samples enter the context in the first place. Yet in doing so, it uses row similarity as a proxy for the attention that the model would assign to each row. We address the limitations of both curation types with a new model-agnostic mechanism: Tabular Selective Attention (TSA). TSA learns a non-negative score for each test/training-row pair that reshapes the attention distribution into one that favours all informative samples rather than just a subset. Across different architectures, such as TabICLv2 and TabDPT, TSA outperforms existing curation methods on the TabArena benchmark. Leveraging these TSA scores to prune uninformative rows from context, we can speed up its inference while largely preserving accuracy.}
+}
+
+@misc{wolff2026sqale,
+      title={Towards Specialized Text-to-SQL Models with SQaLe}, 
+      author={Cornelius Wolff and Daniel Gomm and Madelon Hulsebos},
+      year={2026},
+      abstract={The strong coding generation capabilities of large language models have accelerated progress in text-to-SQL, the task of converting natural language questions into executable SQL queries. The state-of-the-art in text-to-SQL is currently set by frontier language models embedded in composite agentic pipelines that incur substantial inference cost. Specialised small models would avoid this cost but training them requires data reflecting the scale, semantics, and structural diversity of real-world databases. Towards this vision, we introduce SQALE, a large-scale semi-synthetic text-to-SQL dataset built on 9,259 schemas from SchemaPile, a collection of real-world schemas extracted from GitHub. We present an informed data generation pipeline that combines schema extension, value synthesis, question generation, and agentic answering under execution-based validation at every stage, and produce 1,408,056 high-quality natural language (NL) questions pair with 176,761 corresponding SQL queries. Besides the large scale of SQaLe, our analysis shows that it offers significantly larger schemas than existing datasets and rich query distribution. We demonstrate how SQaLe empowers small specialised text-to-SQL models by training a small language model with GRPO directly on SQaLe that improves the untrained base model by nearly 33 points on BIRD dev, which is an unprecedented gain. We find that, among other factors, key to this performance is that training on SQaLe enables the model to learn exploring the database. It finds the relevant tables more often and looks up far more of the values it needs than when trained on other datasets. The dataset, generation pipeline, and training code are available at: https://trl-lab.github.io/sqale/.}
+}
+
 @misc{li2026silentfailuresagenticdata,
       title={The Silent Failures in Agentic Data Science}, 
       author={Xue Li and Hongqian Xia and Daniel Gomm and Aécio Santos and Cornelius Wolff and Madelon Hulsebos},
