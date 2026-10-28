@@ -11,8 +11,9 @@ Below, you can find a selection of talks, lectures, panels, and podcasts.
 
 <h5><b>Talks</b></h5>
 
-- <i>On the Different Flavors hence Needs of Tabular Reasoning</i> (June- 2026) [<a href="/assets/pdf/slides/tabular_reasoning_flavors.pdf" target="blank">pdf</a>]<br>
-    - BIFOLD Seminar, TU Berlin
+- <i>On the Different Flavors hence Needs of Tabular Reasoning</i> (June- 2026) [<a href="/assets/pdf/slides/flavors_of_tabular_reasoning.pdf" target="blank">pdf</a>]<br>
+    - ML Speaker Series, Booking.com
+    - BIFOLD Colloquium, TU Berlin
     - Institute for Language, Cognition and Computation Seminar, University of Edinburgh
     - AI Research Retreat, SAP<br><br>
 
