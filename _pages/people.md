@@ -3,7 +3,7 @@ layout: page
 permalink: /people/
 title: people
 nav: true
-nav_order: 4
+nav_order: 6
 
 ---
 
@@ -34,6 +34,7 @@ PhD Visitors
 MSc
 <div>
 <ul>
+  <li>Bente Zuijdam (University of Amsterdam, 2026-2027)
   <li><a href="https://daniallegue.github.io/" target="blank">Daniel De Dios Allegue</a> (TU Delft, Oct 2025-2026), now at Cambridge</li>
   <li>Hongqian Xia (UvA, 2026), now at Booking</li>
   <li>Lisa van Oosten (UvA, 2026), now at TBC</li>
